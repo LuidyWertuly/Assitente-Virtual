@@ -2,7 +2,7 @@ import speech_recognition as sr
 import re
 import pyttsx3
 
-nome = "lydia"
+nome = "assistente"
 
 while(True):
 
